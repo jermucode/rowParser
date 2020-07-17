@@ -1,0 +1,3 @@
+
+int tabcount(char *str);
+
